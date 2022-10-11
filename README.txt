@@ -7,3 +7,4 @@ se iran actualizando uttilizando branches dentro de git.
 Nombre del alumno: Arturo Manuel Garcia Ambriz 
 Fecha de hoy: 11 de octubre del 2022
 
+CAMBIO REALIZADO DESDE GITHUB
